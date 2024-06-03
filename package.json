@@ -1,15 +1,15 @@
 {
-	"name": "gemini-ai",
-	"version": "2.2.0",
-	"author": "EvanZhouDev",
-	"contributors": ["XInTheDark"],
-	"description": "The simpler JavaScript Gemini SDK",
+	"name": "gemini-ai-g4f",
+	"version": "12.2.0",
+	"author": "XInTheDark",
+	"contributors": ["EvanZhouDev"],
+	"description": "The simpler JavaScript Gemini SDK - optimised for raycast-g4f",
 	"license": "GPL-3.0",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/XInTheDark/gemini-ai.git"
+		"url": "git+https://github.com/jmuzhen/gemini-ai-beta.git"
 	},
-	"homepage": "https://github.com/XInTheDark/gemini-ai",
+	"homepage": "https://github.com/jmuzhen/gemini-ai-beta",
 	"scripts": {
 		"build": "tsup",
 		"test": "vitest",
